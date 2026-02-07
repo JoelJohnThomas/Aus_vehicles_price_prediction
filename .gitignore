@@ -1,0 +1,23 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+ds_venv/
+.env/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+sample_solution.pdf
+
+# macOS junk
+.DS_Store
+
+# Windows junk
+Thumbs.db
+ehthumbs.db
